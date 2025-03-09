@@ -1,0 +1,6 @@
+{
+  "name": "Ubuntu 20.04",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu-20.04",
+  "features": {},
+  "settings": {}
+}
